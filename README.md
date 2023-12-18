@@ -1,4 +1,4 @@
-# OPEN USING GOOGLE COLAB TO VIEW ALL PLOTLY GRAPHS!!!
+# Open using Google Colab to view plotly graphs.
 
 # Bitcoin-Future-Prices-Using-Machine-Learning-Models
 
