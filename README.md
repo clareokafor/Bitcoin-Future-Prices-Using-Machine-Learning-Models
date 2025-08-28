@@ -11,7 +11,7 @@ Notebook: [BitcoinPricePrediction_pynb.ipynb](https://github.com/clareokafor/Bit
 
 ## 📖 Problem Statement
 
-Stock (and cryptocurrency) price prediction has become central to informed decision-making in modern finance. Bitcoin—particularly in the GBP market, shows extreme volatility driven by supply/demand dynamics, security events, regulatory news and market sentiment. While investors seek to time entries and exits, the unpredictable nature of Bitcoin makes accurate forecasting a formidable time-series challenge. This project tackles that challenge by building, comparing and optimising machine-learning models to forecast future Bitcoin-GBP prices.
+Stock (and cryptocurrency) price prediction has become central to informed decision-making in modern finance. Bitcoin particularly in the GBP market, shows extreme volatility driven by supply/demand dynamics, security events, regulatory news and market sentiment. While investors seek to time entries and exits, the unpredictable nature of Bitcoin makes accurate forecasting a formidable time-series challenge. This project tackles that challenge by building, comparing and optimising machine-learning models to forecast future Bitcoin-GBP prices.
 
 ## 🎯 Project Objective
 
